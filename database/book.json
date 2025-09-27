@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Node.js Asoslari",
+    "author": "John Doe",
+    "year": 2024
+  },
+  {
+    "id": 2,
+    "title": "O'tgan kunlar",
+    "author": "O'tkir Hoshimov",
+    "year": 1980
+  },
+  {
+    "id": 3,
+    "title": "Ikki eshik orasi",
+    "author": "O'tkir Hoshimov",
+    "year": 1985
+  },
+  {
+    "id": 5,
+    "title": "iymon",
+    "author": "Shayx Muhammadsodiq Muhammadyusuf",
+    "year": 1946
+  },
+  {
+    "id": 6,
+    "title": "tavsiri xilo",
+    "author": "Shayx Muhammadsodiq Muhammadyusuf",
+    "year": 1970
+  }
+]
